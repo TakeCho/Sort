@@ -26,6 +26,8 @@ public class MapObjectTest {
 		return col.getBlue();
 	}
 	
+	//ssssssss
+	
 	public String toString(){
 		return "<" + getName() + " " + getAge() + ">";
 	}
