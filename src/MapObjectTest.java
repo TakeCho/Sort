@@ -25,7 +25,7 @@ public class MapObjectTest {
 	int getColorRGB(){
 		return col.getBlue();
 	}
-	//‘‚«Š·‚¦‚½‚æ
+	//æ›¸ãæ›ãˆãŸã‚ˆ
 	//ssssssss
 	
 	public String toString(){
